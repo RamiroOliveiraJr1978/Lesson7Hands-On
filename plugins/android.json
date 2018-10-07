@@ -1,0 +1,30 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "de.janpiotrowski.ionic.epubjs"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "de.janpiotrowski.ionic.epubjs"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "de.janpiotrowski.ionic.epubjs"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "de.janpiotrowski.ionic.epubjs"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "de.janpiotrowski.ionic.epubjs"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "de.janpiotrowski.ionic.epubjs"
+    }
+  },
+  "dependent_plugins": {}
+}
